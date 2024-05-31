@@ -1,4 +1,9 @@
 ---
 nav:
   - Overview: overview
-  - Developer Guide: development
+  - Getting started: getting-started
+  - User Guide: user-guide
+  - Developer Guide: developer-guide
+  - Troubleshooting: troubleshooting
+  - What's new: whats-new
+  - How to contribute: how-to-contribute
